@@ -1,7 +1,7 @@
 {
-    "url": "YOUR APP URL", 
-    "name": "MaxiTap Airdrop",                   
-    "iconUrl": "YOUR APP URL/loader.webp",          
-    "termsOfUseUrl": "",  
-    "privacyPolicyUrl": "" 
+    "url": "https://blowngrowbot.netlify.app", 
+    "name": "BlownGrow Game",                   
+    "iconUrl": "https://blowngrowbot.netlify.app/loader.webp",          
+    "termsOfUseUrl": "https://blowngrowbot.netlify.app/terms",  
+    "privacyPolicyUrl": "https://blowngrowbot.netlify.app/privacy"
 }
