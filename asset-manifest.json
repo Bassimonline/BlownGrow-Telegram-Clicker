@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.3f1abf3a.css",
-    "main.js": "/static/js/main.d4721aa1.js",
-    "static/media/loading.webp": "/static/media/loading.487ddfdee1c7bab9a69b.webp",
+    "main.css": "/static/css/main.a9da50b8.css",
+    "main.js": "/static/js/main.81bd7391.js",
+    "static/media/loading.webp": "/static/media/loading.cd4d9d7427f4a656c2f4.webp",
     "static/media/coinsmall.webp": "/static/media/coinsmall.f6f06ff640e5df45b650.webp",
     "index.html": "/index.html",
     "static/media/whatsapp.svg": "/static/media/whatsapp.a5b7019dda60358716061674ac9c42b4.svg",
     "static/media/twitter.svg": "/static/media/twitter.a24e975c9f26cf2cfa88cf838266778d.svg",
     "static/media/facebook.svg": "/static/media/facebook.08ed0d64ea14d23ab0528a12be12499c.svg",
     "static/media/telegram.svg": "/static/media/telegram.c7b359a0105dea5ce0362d65465c4633.svg",
-    "main.3f1abf3a.css.map": "/static/css/main.3f1abf3a.css.map",
-    "main.d4721aa1.js.map": "/static/js/main.d4721aa1.js.map"
+    "main.a9da50b8.css.map": "/static/css/main.a9da50b8.css.map",
+    "main.81bd7391.js.map": "/static/js/main.81bd7391.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f1abf3a.css",
-    "static/js/main.d4721aa1.js"
+    "static/css/main.a9da50b8.css",
+    "static/js/main.81bd7391.js"
   ]
 }
