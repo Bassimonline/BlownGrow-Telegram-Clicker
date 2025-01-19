@@ -1,6 +1,9 @@
 # Telegram Mini Game: Clicker Game with Leaderboard, Wallet Connection, Rewards, and Boosters
 ![Telegram Game Demo](https://i.ibb.co/vxG6dmv/TELEGRAM-GAME.png)
-https://i.ibb.co/yf6Mvry/Untitled-design.png
+
+![Game Screens](https://i.ibb.co/yf6Mvry/Untitled-design.png)
+
+
 ## Overview
 Welcome to the **Telegram Mini Game**, an engaging clicker game designed with modern features to captivate users. Built using **React.js** and powered by **Firebase Firestore** for backend services, this game ensures smooth functionality and scalability. It includes a leaderboard system, wallet integration for rewards, boosters for enhanced gameplay, and a daily reward system. The game is designed to support multi-tap gameplay and is optimized for hosting on free platforms like **Netlify**.
 
