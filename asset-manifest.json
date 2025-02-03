@@ -1,19 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.3e292abe.css",
-    "main.js": "/static/js/main.46cc55e9.js",
+    "main.css": "/static/css/main.35f9ca70.css",
+    "main.js": "/static/js/main.5790a11d.js",
     "static/media/loading.webp": "/static/media/loading.cd4d9d7427f4a656c2f4.webp",
     "index.html": "/index.html",
     "static/media/coinsmall.webp": "/static/media/coinsmall.f6f06ff640e5df45b650.webp",
     "static/media/whatsapp.svg": "/static/media/whatsapp.a5b7019dda60358716061674ac9c42b4.svg",
     "static/media/twitter.svg": "/static/media/twitter.a24e975c9f26cf2cfa88cf838266778d.svg",
     "static/media/facebook.svg": "/static/media/facebook.08ed0d64ea14d23ab0528a12be12499c.svg",
-    "static/media/telegram.svg": "/static/media/telegram.c7b359a0105dea5ce0362d65465c4633.svg",
-    "main.3e292abe.css.map": "/static/css/main.3e292abe.css.map",
-    "main.46cc55e9.js.map": "/static/js/main.46cc55e9.js.map"
+    "static/media/telegram.svg": "/static/media/telegram.c7b359a0105dea5ce0362d65465c4633.svg"
   },
   "entrypoints": [
-    "static/css/main.3e292abe.css",
-    "static/js/main.46cc55e9.js"
+    "static/css/main.35f9ca70.css",
+    "static/js/main.5790a11d.js"
   ]
 }
